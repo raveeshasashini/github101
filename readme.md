@@ -38,7 +38,7 @@ Basic Git Commands....
 
  14.Branch Management
     #git branch
-    
+
     Delete a branch: git branch -d <branch-name>(merged changes)
                      git branch -D <branch-name>(if unmerged)
 
