@@ -39,10 +39,4 @@ Basic Git Commands....
  14.Branch Management
     #git branch
 
-    Delete a branch: git branch -d <branch-name>(merged changes)
-                     git branch -D <branch-name>(if unmerged)
-
-    Rename a branch:git branch -m <new name>#rename current branch
-                    git branch  -m <old-name> <new-name>
-
-    create a new branch starting from an existing branch: git branch <new-branch-name> <existing-branch-name>
+    
