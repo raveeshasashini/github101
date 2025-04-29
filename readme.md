@@ -32,4 +32,4 @@ Basic Git Commands....
     # git branch <branch_name>
 
  11.Switch to the  branch
-    #git checkout<branch_name>      
+    # git checkout<branch_name>      
