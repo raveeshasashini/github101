@@ -27,3 +27,16 @@ Basic Git Commands....
 
 9.Switch back to the latest version (e.g., main branch)
     # git checkout main
+
+ 10.Create a new branch 
+    # git branch <branch_name>
+
+ 11.Switch to the  branch
+    # git checkout<branch_name>      
+12.Create and Switch to a New Branch
+    #git checkout -b <branch_name>
+
+ 14.Branch Management
+    #git branch
+
+    
