@@ -39,4 +39,4 @@ Basic Git Commands....
  14.Branch Management
     #git branch
 
- this is bad line   
+I added new lines
